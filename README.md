@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Each section of The Prework Study Guide contains notes from things learned from HTML, CSS, JavaScript, and Git. To add additional notes, open the file and add additional list items <li> to the unordered lists <ul> in their corresponding sections. Additionally, by viewing the DevTools Console, you'll be able to see a list of the topics covered within this guide.
+Each section of The Prework Study Guide contains notes from things learned from HTML, CSS, JavaScript, and Git. To add additional notes, open the file and add additional list items to the unordered lists in their corresponding sections. Additionally, by viewing the DevTools Console, you'll be able to see a list of the topics covered within this guide.
 
 ## Credits
 
